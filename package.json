@@ -1,0 +1,15 @@
+{
+  "name": "gride",
+  "version": "1.0.0",
+  "description": "llanding page for gride",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/_main.scss CSS/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
+
